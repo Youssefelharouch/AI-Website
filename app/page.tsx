@@ -1,7 +1,7 @@
-import AboutUsSection from "@/components/ui/about-us-section";
-import FeaturesSection from "@/components/ui/features-section";
-import HeroSection from "@/components/ui/hero-section";
-import WorkSlider from "@/components/ui/work-slider";
+import AboutUsSection from "@/components/ui/About-us-section";
+import FeaturesSection from "@/components/ui/Features-section";
+import HeroSection from "@/components/ui/Hero-section";
+import WorkSlider from "@/components/ui/Work-slider";
 
 export default function Home() {
   return (

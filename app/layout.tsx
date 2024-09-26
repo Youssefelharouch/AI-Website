@@ -1,6 +1,6 @@
-import Footer from "@/components/ui/footer";
+import Footer from "@/components/ui/Footer";
 import "./globals.css";
-import Header from "@/components/ui/header";
+import Header from "@/components/ui/Header";
 
 
 
